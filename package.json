@@ -1,0 +1,17 @@
+{
+  "name": "js-task-lister-lite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 5000 --reporter mocha-junit-reporter"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdom": "^16.7.0",
+    "mocha": "^9.2.2",
+    "mocha-junit-reporter": "^2.2.0"
+  }
+}
